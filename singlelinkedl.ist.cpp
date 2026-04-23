@@ -40,6 +40,13 @@ public:
           START = nodeBaru;
           retrun;
         }
-        
+
+        Node *previos = START;
+        Node *current = START;
+
+        Wwhile (current != NULL && nim > current-> noMhs)
+        {
+            
+        }
     }
 }
