@@ -8,3 +8,16 @@ public:
    int noMhs;
    node *next;    
 };
+
+cllass LinkedList
+{
+    node *START;
+
+public:
+    LinkedList()
+    {
+        START = NULL;
+    }
+    
+    
+}
